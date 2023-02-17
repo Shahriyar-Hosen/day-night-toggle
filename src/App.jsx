@@ -1,11 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import "./App.css";
 import Toggle from "./Toggle";
 
 const App = () => {
-  const [toggled, setToggled] = React.useState(false);
+  const [toggled, setToggled] = useState(false);
   const handleClick = () => {
-    setToggled((s) => !s);
+    setToggled((day) => !day);
   };
 
   return (
