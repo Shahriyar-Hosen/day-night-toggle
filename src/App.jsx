@@ -4,6 +4,7 @@ import Toggle from "./Toggle";
 
 const App = () => {
   const [toggled, setToggled] = useState(false);
+
   const handleClick = () => {
     setToggled((day) => !day);
   };
