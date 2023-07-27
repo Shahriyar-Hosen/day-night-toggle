@@ -1,5 +1,10 @@
 <h1 align="center">Day Night Toggle</h1>
 I am creating a day-night toggle animated button. using HTML CSS 🔥
 
-![day](https://github.com/Shahriyar-Hosen/day-night-toggle/assets/96829173/8461680d-ee71-4bab-89a0-d6aaa41d7924)
-![night](https://github.com/Shahriyar-Hosen/day-night-toggle/assets/96829173/8a517b61-35e2-4be6-8e9d-0e5d1d655fa3)
+<br/>
+
+Day version
+![day](https://github.com/Shahriyar-Hosen/day-night-toggle/assets/96829173/71977467-a04d-4fec-bcb8-c70ae5f5a162)
+
+Night version
+![night](https://github.com/Shahriyar-Hosen/day-night-toggle/assets/96829173/28cacf43-b4b5-4462-b235-2eb8127ac3f5)
